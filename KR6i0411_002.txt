@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:19.599580
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:29
 #+TITLE: 分別緣起初勝法門經
 #+PROPERTY: CBETA_ID T16n0717
 #+PROPERTY: ID KR6i0411
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 717
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0411_T_000-0837b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0411_T_002-0840b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《分別緣起初勝法門經》卷下¶
+《分別緣起初勝法門經》卷下¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
@@ -614,8 +613,7 @@
 是四諦為其所緣，除諦相想清淨行相，入¶
 一切種諸諦行相，於作有情一切義利，趣向¶
 行相。少分有量法界妙智，若諸聲聞，於作¶
-有情一切義利，無有棄背趣向行相；若諸獨¶
-覺，於作有情一切義利，棄背行相。全分無¶
+有情一切義利，無有棄背趣向行相；若諸獨覺，於作有情一切義利，棄背行相。全分無¶
 量法界妙智，能作一切煩惱、所知二障離繫¶
 所依事業，又作證得一切種智極淨法界所¶
 依事業，又作救濟一切有情一切災患所依¶
